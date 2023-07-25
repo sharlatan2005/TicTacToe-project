@@ -1,2 +1,2 @@
 # TicTacToe-project
-Console TicTacToe game. This was created in my second year of university as the part of Operating Systems course. 
+Console TicTacToe game. This was created during my second year at university as the part of Operating Systems course. 
